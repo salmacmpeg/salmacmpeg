@@ -68,6 +68,23 @@ I’m actively building my next wave of skills through focused self-learning and
 - Mentoring students and peers, building intuitive pipelines, and making technical knowledge accessible
 
 ---
+## 🎓 Completed & Ongoing Courses
+
+### ✅ Completed
+- `LLM Engineering Master AI, Large Language Models & Agents` – Udemy (2024-12)
+- `Machine Learning in Production: From Data Scientist to ML Engineer` – Udemy (2024-9)
+- `Natural Language Processing in Python (2025 Edition)` – Udemy (2025-5)
+- `Python Automation Testing with Pytest` – Udemy (2023-12)
+
+### 🚧 In Progress
+- `From Zero to Hero GitHub Actions` – Dometrain
+- `Ultimate Guide to FastAPI and Backend Development` – Udemy
+- `MLflow in Action: Master the Art of MLOps` – Udemy 
+- `PyTorch for Deep Learning with Python Bootcamp` -Udemy
+- `Deploy a Production Machine Learning model with AWS` -Udemy
+- `LangChain Develop LLM-powered applications with LangChain` -Udemy
+---
+
 
 ## 💡 Let’s Connect
 
