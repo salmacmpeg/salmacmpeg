@@ -1,7 +1,7 @@
 
 # Salma AbdelMonem | 🧪 Applied ML Researcher
 
-Lecturer Assistant | Cairo, Egypt | Transitioning into Production ML & LLM Engineering
+Lecturer Assistant | Cairo, Egypt | Transitioning into Production ML & LLM Engineering.
 
 ## Hi there 👋
 
@@ -13,7 +13,7 @@ I’ve been sharpening my engineering toolkit for reliable, maintainable ML apps
 
 - **Code quality & automation**: Linting (`flake8`), logging (`loguru`), testing (`pytest`), clean architecture, dependency management using (`poetry`),  automation with (`Makefiles`), and  CI/CD using (`GitHub Actions`). 
 - **NLP with Python and HuggingFace** Feature engineering, (`KNN`), (`HuggingFace`) models, cosine similarity, and  (`Gradio`) UI.
-- **Retrieval-Augmented Generation** with (`LangChain`), (`Chroma vector store`), and (`Ollama`).
+- **Retrieval-Augmented Generation** with (`LangChain`), (`Chroma vectorstore`), and (`Ollama`).
 
 # Here is a summary of my latest projects
 These projects demonstrate end-to-end machine learning applications that prioritize modularity, scalability, and real-world impact. As I transition into MLOps and LLM Engineering, these projects highlight my expertise in building production-ready systems.
