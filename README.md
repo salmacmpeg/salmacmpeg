@@ -71,7 +71,7 @@ I’m actively building my next wave of skills through focused self-learning and
 
 ## 🎯 My Technical Interests
 
-- Designing modular ML apps with a strong focus on observability, and reproducibility
+- Designing modular ML apps with a strong focus on observability and reproducibility
 - NLP, document parsing, and automated knowledge extraction using OCR + regex
 - Bridging the gap between ML research and deployable, maintainable engineering workflows
 - Mentoring students and peers, building intuitive pipelines, and making technical knowledge accessible
