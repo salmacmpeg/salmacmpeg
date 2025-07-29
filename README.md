@@ -1,5 +1,5 @@
 
-# Salma AbdelMonem | Applied ML Researcher
+# Salma AbdelMonem | 🧪 Applied ML Researcher
 
 Lecturer Assistant | Cairo, Egypt | Transitioning into Production ML & LLM Engineering
 
@@ -7,7 +7,7 @@ Lecturer Assistant | Cairo, Egypt | Transitioning into Production ML & LLM Engin
 
 I’m Salma, an applied machine learning researcher with a strong academic foundation, and I'm on a hands-on journey exploring my passion for building ML systems.
 
-## What I’ve Recently Learned & Built
+## 🔧 What I’ve Recently Learned & Built
 
 I’ve been sharpening my engineering toolkit for reliable, maintainable ML apps:
 
@@ -18,7 +18,7 @@ I’ve been sharpening my engineering toolkit for reliable, maintainable ML apps
 # Here is a summary of my latest projects
 These projects demonstrate end-to-end machine learning applications that prioritize modularity, scalability, and real-world impact. As I transition into MLOps and LLM Engineering, these projects highlight my expertise in building production-ready systems.
 
-## PersonalityPrediction  (https://github.com/salmacmpeg/PersonalityPrediction)
+## 🧠 PersonalityPrediction  (https://github.com/salmacmpeg/PersonalityPrediction)
 Personality classification tool with full CI/CD automation and clean architecture.
 
 **Highlights:**
@@ -29,7 +29,7 @@ Personality classification tool with full CI/CD automation and clean architectur
 
 ---
 
-## Movies_recommendation_app (https://github.com/salmacmpeg/Movies_recommendation_app)  
+## 🎬 Movies_recommendation_app (https://github.com/salmacmpeg/Movies_recommendation_app)  
 Hybrid movie recommender using metadata + semantic similarity in Gradio.
 
 **Highlights:**
@@ -39,7 +39,7 @@ Hybrid movie recommender using metadata + semantic similarity in Gradio.
 - Scrollable UI with dynamic filtering
 
 ---
-## QuizGenerator (https://github.com/salmacmpeg/QuizGenerator)
+## 📚 QuizGenerator (https://github.com/salmacmpeg/QuizGenerator)
 RAG-based app for generating contextual quiz questions from course materials.
 
 **Highlights:**
@@ -49,7 +49,7 @@ RAG-based app for generating contextual quiz questions from course materials.
 - Local deployment using Ollama for privacy
 
 ---
-## What I’m Currently Working Toward
+## 🚀 What I’m Currently Working Toward
 
 I’m actively building my next wave of skills through focused self-learning and personal projects:
 
@@ -58,11 +58,9 @@ I’m actively building my next wave of skills through focused self-learning and
 -  **AWS & SageMaker** – deploying scalable ML models in the cloud
 -  **MLflow** – experiment tracking, model registry, and automated deployment
 -  **FastAPI** – building clean, scalable APIs for ML inference
-
-Each new skill gets applied and tested in real projects—because learning sticks best when it’s built into something you’re proud to use and share.
 ---
 
-## My Technical Interests
+## 🎯 My Technical Interests
 
 - Designing modular ML apps with a strong focus on UX, observability, and reproducibility
 - NLP, document parsing, and automated knowledge extraction using OCR + regex
@@ -71,7 +69,7 @@ Each new skill gets applied and tested in real projects—because learning stick
 
 ---
 
-## Let’s Connect
+## 💡 Let’s Connect
 
 If you're working on **AI systems**, **MLOps**, or **LLM-powered apps**, I'd love to collaborate, share, or geek out over clean architectures and quirky edge cases.
 
