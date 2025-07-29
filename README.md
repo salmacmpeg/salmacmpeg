@@ -19,7 +19,9 @@ I’ve been sharpening my engineering toolkit for reliable, maintainable ML apps
 These projects demonstrate end-to-end machine learning applications that prioritize modularity, scalability, and real-world impact. As I transition into MLOps and LLM Engineering, these projects highlight my expertise in building production-ready systems.
 
 ## 🧠 PersonalityPrediction  
-(https://github.com/salmacmpeg/PersonalityPrediction)
+
+(https://github.com/salmacmpeg/PersonalityPrediction).
+
 Personality classification tool with full CI/CD automation and clean architecture.
 
 **Highlights:**
@@ -31,7 +33,9 @@ Personality classification tool with full CI/CD automation and clean architectur
 ---
 
 ## 🎬 Movies_recommendation_app 
-(https://github.com/salmacmpeg/Movies_recommendation_app)  
+
+(https://github.com/salmacmpeg/Movies_recommendation_app).
+
 Hybrid movie recommender using metadata + semantic similarity in Gradio.
 
 **Highlights:**
@@ -42,7 +46,9 @@ Hybrid movie recommender using metadata + semantic similarity in Gradio.
 
 ---
 ## 📚 QuizGenerator 
-(https://github.com/salmacmpeg/QuizGenerator)
+
+(https://github.com/salmacmpeg/QuizGenerator).
+
 RAG-based app for generating contextual quiz questions from course materials.
 
 **Highlights:**
@@ -93,8 +99,8 @@ I’m actively building my next wave of skills through focused self-learning and
 
 If you're working on **AI systems**, **MLOps**, or **LLM-powered apps**, I'd love to collaborate, share, or geek out over clean architectures and quirky edge cases.
 
-- Reach out via [LinkedIn][(https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/salma-abdelmotaleb-27911692/) or [Email](salmacmpeg@gmail.com)
-- Check out my pinned repositories for real-world projects in ML, NLP, and LLM engineering
+- Reach out via [LinkedIn](https://www.linkedin.com/in/salma-abdelmotaleb-27911692/) or [Email](salmacmpeg@gmail.com).
+- Check out my pinned repositories for real-world projects in ML, NLP, and LLM engineering.
 
 ---
 Fun fact: If apps had personalities, mine would be a curious introvert with a relentless drive to learn.
