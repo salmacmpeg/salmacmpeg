@@ -11,8 +11,8 @@ I’m Salma, an applied machine learning researcher with a strong academic found
 
 I’ve been sharpening my engineering toolkit for reliable, maintainable ML apps:
 
-- **Code quality & automation**: Linting (`flake8`), logging (`loguru`), testing (`pytest`), clean architecture, dependency management using (`poetry`),  CI/CD with GitHub Actions, and automation with Makefiles
-- **NLP with Python and HuggingFace** Feature engineering, (`KNN`), (`HuggingFace`) models, cosine similarity, and  (`Gradio`) UI
+- **Code quality & automation**: Linting (`flake8`), logging (`loguru`), testing (`pytest`), clean architecture, dependency management using (`poetry`),  automation with (`Makefiles`), and  CI/CD using (`GitHub Actions`). 
+- **NLP with Python and HuggingFace** Feature engineering, (`KNN`), (`HuggingFace`) models, cosine similarity, and  (`Gradio`) UI.
 - **Retrieval-Augmented Generation** with (`LangChain`), (`Chroma vector store`), and (`Ollama`).
 
 # Here is a summary of my latest projects
@@ -25,10 +25,10 @@ These projects demonstrate end-to-end machine learning applications that priorit
 Personality classification tool with full CI/CD automation and clean architecture.
 
 **Highlights:**
-- Decision Tree pipeline built with Poetry + Makefile
-- Automated testing and linting with GitHub Actions
-- Loguru logging and modular config files
-- Pytest coverage across training/inference workflows
+- Decision Tree pipeline built with Poetry + Makefile.
+- Automated testing and linting with GitHub Actions.
+- Loguru logging and modular config files.
+- Pytest coverage across training/inference workflows.
 
 ---
 
@@ -39,10 +39,10 @@ Personality classification tool with full CI/CD automation and clean architectur
 Hybrid movie recommender using metadata + semantic similarity in Gradio.
 
 **Highlights:**
-- KNN over count-vectorized genres + vote stats
-- Transformer-based embeddings via Hugging Face
-- Cached inference for fast performance
-- Scrollable UI with dynamic filtering
+- KNN over count-vectorized genres + vote stats.
+- Transformer-based embeddings via Hugging Face.
+- Cached inference for fast performance.
+- Scrollable UI with dynamic filtering.
 
 ---
 ## 📚 QuizGenerator 
@@ -52,46 +52,46 @@ Hybrid movie recommender using metadata + semantic similarity in Gradio.
 RAG-based app for generating contextual quiz questions from course materials.
 
 **Highlights:**
-- Embedding with `sentence-transformers`, generation via LLaMA 3.2
-- Modular LangChain pipeline: loading, indexing, querying
-- Gradio UI for interactive quiz generation
-- Local deployment using Ollama for privacy
+- Embedding with sentence-transformers, generation via llama3.2.
+- Modular LangChain pipeline: loading, indexing, querying.
+- Gradio UI for interactive quiz generation.
+- Local deployment using Ollama for privacy.
 
 ---
 ## 🚀 What I’m Currently Working Toward
 
 I’m actively building my next wave of skills through focused self-learning and personal projects:
 
--  **PyTorch** – mastering custom model development
--  **LangChain** – chaining agents/tools and building private LLM workflows
--  **AWS & SageMaker** – deploying scalable ML models in the cloud
--  **MLflow** – experiment tracking, model registry, and automated deployment
--  **FastAPI** – building clean, scalable APIs for ML inference
+-  **PyTorch** – mastering custom model development.
+-  **LangChain** – chaining agents/tools and building private LLM workflows.
+-  **AWS & SageMaker** – deploying scalable ML models in the cloud.
+-  **MLflow** – experiment tracking, model registry, and automated deployment.
+-  **FastAPI** – building clean, scalable APIs for ML inference.
 ---
 
 ## 🎯 My Technical Interests
 
-- Designing modular ML apps with a strong focus on observability and reproducibility
-- NLP, document parsing, and automated knowledge extraction using OCR + regex
-- Bridging the gap between ML research and deployable, maintainable engineering workflows
-- Mentoring students and peers, building intuitive pipelines, and making technical knowledge accessible
+- Designing insightful modular ML apps.
+- NLP, document parsing, and automated knowledge extraction using OCR + regex.
+- Bridging the gap between ML research and deployable, maintainable engineering workflows.
+- Mentoring students and peers, building intuitive pipelines, and making technical knowledge accessible.
 
 ---
 ## 🎓 Completed & Ongoing Courses
 
 ### ✅ Completed
-- `LLM Engineering Master AI, Large Language Models & Agents` – Udemy (2024-12)
-- `Machine Learning in Production: From Data Scientist to ML Engineer` – Udemy (2024-9)
-- `Natural Language Processing in Python (2025 Edition)` – Udemy (2025-5)
-- `Python Automation Testing with Pytest` – Udemy (2023-12)
+- `LLM Engineering Master AI, Large Language Models & Agents` – Udemy (2024-12).
+- `Machine Learning in Production: From Data Scientist to ML Engineer` – Udemy (2024-9).
+- `Natural Language Processing in Python (2025 Edition)` – Udemy (2025-5).
+- `Python Automation Testing with Pytest` – Udemy (2023-12).
 
 ### 🚧 In Progress
-- `From Zero to Hero GitHub Actions` – Dometrain
-- `Ultimate Guide to FastAPI and Backend Development` – Udemy
-- `MLflow in Action: Master the Art of MLOps` – Udemy 
-- `PyTorch for Deep Learning with Python Bootcamp` -Udemy
-- `Deploy a Production Machine Learning model with AWS` -Udemy
-- `LangChain Develop LLM-powered applications with LangChain` -Udemy
+- `From Zero to Hero GitHub Actions` – Dometrain.
+- `Ultimate Guide to FastAPI and Backend Development` – Udemy.
+- `MLflow in Action: Master the Art of MLOps` – Udemy.
+- `PyTorch for Deep Learning with Python Bootcamp` -Udemy.
+- `Deploy a Production Machine Learning model with AWS` -Udemy.
+- `LangChain Develop LLM-powered applications with LangChain` -Udemy.
 ---
 
 
@@ -103,5 +103,4 @@ If you're working on **AI systems**, **MLOps**, or **LLM-powered apps**, I'd lov
 - Check out my pinned repositories for real-world projects in ML, NLP, and LLM engineering.
 
 ---
-Fun fact: If apps had personalities, mine would be a curious introvert with a relentless drive to learn.
-> _“Learn it. Apply it. Share it. That’s the loop I live by.”_
+> _If apps had personalities, mine would be a curious introvert with a relentless drive to learn and apply._
