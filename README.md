@@ -11,7 +11,7 @@ I’m Salma, an applied machine learning researcher with a strong academic found
 
 I’ve been sharpening my engineering toolkit for reliable, maintainable ML apps:
 
-- **Code quality & automation**: Linting (`flake8`), logging (`loguru`), testing (`pytest`), clean architecture, CI/CD with GitHub Actions, and automation with Makefiles
+- **Code quality & automation**: Linting (`flake8`), logging (`loguru`), testing (`pytest`), clean architecture, dependency management using (`poetry`),  CI/CD with GitHub Actions, and automation with Makefiles
 - **NLP with Python and HuggingFace** Feature engineering, (`KNN`), (`HuggingFace`) models, cosine similarity, and  (`Gradio`) UI
 - **Retrieval-Augmented Generation** with (`LangChain`), (`Chroma vector store`), and (`Ollama`).
 
