@@ -14,6 +14,7 @@ I’ve been sharpening my engineering toolkit for reliable, maintainable ML apps
 - **Code quality & automation**: Linting (`flake8`), logging (`loguru`), testing (`pytest`), clean architecture, dependency management using (`poetry`),  automation with (`Makefiles`), and  CI/CD using (`GitHub Actions`). 
 - **NLP with Python and HuggingFace** Feature engineering, (`KNN`), (`HuggingFace`) models, cosine similarity, and  (`Gradio`) UI.
 - **Retrieval-Augmented Generation** with (`LangChain`), (`Chroma vectorstore`), and (`Ollama`).
+- **MLflow for customer churn prediction data and model tracking and versioning** experiment tracking, model registry, and automated deployment with (`MLflow`).
 
 # Here is a summary of my latest projects
 These projects demonstrate end-to-end machine learning applications that prioritize modularity, scalability, and real-world impact. As I transition into MLOps and LLM Engineering, these projects highlight my expertise in building production-ready systems.
@@ -58,6 +59,21 @@ RAG-based app for generating contextual quiz questions from course materials.
 - Local deployment using Ollama for privacy.
 
 ---
+## 📊 MLflow_CustomerChurnTracking  
+
+(https://github.com/salmacmpeg/MLflow_customer_churn_prediction)
+
+MLflow-powered pipeline for tracking, comparing, and registering classical models on customer churn prediction.  
+
+**Highlights:**  
+- Registered cleaned datasets as MLflow artifacts via `mlflow.data.from_pandas`.  
+- Evaluated Random Forest, SVM, and XGBoost with modular training and metric logging.  
+- Tracked Balanced Accuracy, F1, GM, MCC, Recall, Precision, Confusion Matrix.  
+- Logged models with inferred input/output signatures and parameter configs.  
+- Timestamped runs and datasets with structured experiment tagging.  
+- Modular design for reusable experimentation and debugging.
+
+---
 ## 🚀 What I’m Currently Working Toward
 
 I’m actively building my next wave of skills through focused self-learning and personal projects:
@@ -65,7 +81,6 @@ I’m actively building my next wave of skills through focused self-learning and
 -  **PyTorch** – mastering custom model development.
 -  **LangChain** – chaining agents/tools and building private LLM workflows.
 -  **AWS & SageMaker** – deploying scalable ML models in the cloud.
--  **MLflow** – experiment tracking, model registry, and automated deployment.
 -  **FastAPI** – building clean, scalable APIs for ML inference.
 ---
 
@@ -93,7 +108,6 @@ I’m actively building my next wave of skills through focused self-learning and
 - `Deploy a Production Machine Learning model with AWS` -Udemy.
 - `LangChain Develop LLM-powered applications with LangChain` -Udemy.
 ---
-
 
 ## 💡 Let’s Connect
 
