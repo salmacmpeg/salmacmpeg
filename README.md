@@ -12,9 +12,9 @@ I’m Salma, an applied machine learning researcher with a strong academic found
 I’ve been sharpening my engineering toolkit for reliable, maintainable ML apps:
 
 - **Code quality & automation**: Linting (`flake8`), logging (`loguru`), testing (`pytest`), clean architecture, dependency management using (`poetry`),  automation with (`Makefiles`), and  CI/CD using (`GitHub Actions`). 
-- **NLP with Python and HuggingFace** Feature engineering, (`KNN`), (`HuggingFace`) models, cosine similarity, and  (`Gradio`) UI.
-- **Retrieval-Augmented Generation** with (`LangChain`), (`Chroma vectorstore`), and (`Ollama`).
-- **MLflow for customer churn prediction data and model tracking and versioning** experiment tracking, model registry, and automated deployment with (`MLflow`).
+- **NLP with Python and HuggingFace**: Feature engineering, (`KNN`), (`HuggingFace`) models, cosine similarity, and  (`Gradio`) UI.
+- **Retrieval-Augmented Generation**: With (`LangChain`), (`Chroma vectorstore`), and (`Ollama`).
+- **MLflow for customer churn prediction**: Experiment data and model tracking, parameters, metrics, and automated model deployment with (`MLflow`).
 
 # Here is a summary of my latest projects
 These projects demonstrate end-to-end machine learning applications that prioritize modularity, scalability, and real-world impact. As I transition into MLOps and LLM Engineering, these projects highlight my expertise in building production-ready systems.
@@ -59,7 +59,7 @@ RAG-based app for generating contextual quiz questions from course materials.
 - Local deployment using Ollama for privacy.
 
 ---
-## 📊 MLflow_CustomerChurnTracking  
+## 📊 MLflow_customer_churn_prediction  
 
 (https://github.com/salmacmpeg/MLflow_customer_churn_prediction)
 
