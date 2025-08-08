@@ -79,7 +79,7 @@ MLflow-powered pipeline for tracking, comparing, and registering classical model
 
 (https://github.com/salmacmpeg/Emotions_prediction_using_sentiment_analysis)
 
-Deep learning-based sentiment classification pipeline for Arabic and English text.
+Deep learning-based sentiment classification pipeline from English text.
 
 **Highlights**:
 - Data preprocessing, splitting, and batch loading.
@@ -117,7 +117,11 @@ I’m actively building my next wave of skills through focused self-learning and
 - `Python Automation Testing with Pytest` – Udemy (2023-12).
 - `PyTorch for Deep Learning with Python Bootcamp` – Udemy (2019-9).
 - `PyTorch  Natural Language Processing NLP With Transformers in Python` – Udemy (2022-8).
-
+- `Machine Learning in Production` – Coursera - Ongoing Exp. July 2025.
+- `Master AI, Large Language Models \& Agents` – Udemy - April 2025.
+- `Generative AI with Large Language Models` – Coursera - Feb. 2025.
+- `Deep Learning Specialization` – Coursera (by Andrew Ng) - April 2020.
+- `Machine Learning for Intelligent Systems CS4780` – Cornell Class - Sep. 2019.
 
 ### 🚧 In Progress
 - `From Zero to Hero GitHub Actions` – Dometrain.
