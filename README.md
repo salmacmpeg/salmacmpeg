@@ -1,11 +1,11 @@
 
 # Salma AbdelMonem | 🧪 Applied ML Researcher
 
-Lecturer Assistant | Cairo, Egypt | Transitioning into Production ML & LLM Engineering.
+Lecturer Assistant | Cairo, Egypt | Transitioning from Academia to Production ML & LLM Engineering.
 
 ## Hi there 👋
 
-I’m Salma, an applied machine learning researcher with a strong academic foundation, and I'm on a hands-on journey exploring my passion for building ML systems.
+I’m Salma, an applied machine learning researcher and PhD (scheduled) in machine learning, and I'm on a hands-on journey exploring my passion for building ML systems.
 
 ## 🔧 What I’ve Recently Learned & Built
 
@@ -15,6 +15,7 @@ I’ve been sharpening my engineering toolkit for reliable, maintainable ML apps
 - **NLP with Python and HuggingFace**: Feature engineering, (`KNN`), (`HuggingFace`) models, cosine similarity, and  (`Gradio`) UI.
 - **Retrieval-Augmented Generation**: With (`LangChain`), (`Chroma vectorstore`), and (`Ollama`).
 - **MLflow for customer churn prediction**: Experiment data and model tracking, parameters, metrics, and automated model deployment with (`MLflow`).
+- **Sentiment Analysis with Deep Learning**: Text classification using traditional machine learning, CNNs, RNNs, and transformers, with modular training and evaluation pipelines.
 
 # Here is a summary of my latest projects
 These projects demonstrate end-to-end machine learning applications that prioritize modularity, scalability, and real-world impact. As I transition into MLOps and LLM Engineering, these projects highlight my expertise in building production-ready systems.
@@ -74,11 +75,26 @@ MLflow-powered pipeline for tracking, comparing, and registering classical model
 - Modular design for reusable experimentation and debugging.
 
 ---
+## 📚 Emotions_prediction_using_sentiment_analysis
+
+(https://github.com/salmacmpeg/Emotions_prediction_using_sentiment_analysis)
+
+Deep learning-based sentiment classification pipeline for Arabic and English text.
+
+**Highlights**:
+- Data preprocessing, splitting, and batch loading.
+- NLP pipeline with vectorization, tokenization, padding, and label encoding.
+- XGbbost, CNN, BiLSTM, and transformer-based models trained and evaluated.
+- Modular training loop with early stopping and checkpointing.
+- Evaluation metrics: Accuracy, F1, Precision, Recall, Confusion Matrix.
+- Clean architecture with reusable components for experimentation.
+- Interactive Gradio UI for real-time sentiment prediction.
+
+---
 ## 🚀 What I’m Currently Working Toward
 
 I’m actively building my next wave of skills through focused self-learning and personal projects:
 
--  **PyTorch** – mastering custom model development.
 -  **LangChain** – chaining agents/tools and building private LLM workflows.
 -  **AWS & SageMaker** – deploying scalable ML models in the cloud.
 -  **FastAPI** – building clean, scalable APIs for ML inference.
@@ -99,12 +115,14 @@ I’m actively building my next wave of skills through focused self-learning and
 - `Machine Learning in Production: From Data Scientist to ML Engineer` – Udemy (2024-9).
 - `Natural Language Processing in Python (2025 Edition)` – Udemy (2025-5).
 - `Python Automation Testing with Pytest` – Udemy (2023-12).
+- `PyTorch for Deep Learning with Python Bootcamp` – Udemy (2019-9).
+- `PyTorch  Natural Language Processing NLP With Transformers in Python` – Udemy (2022-8).
+
 
 ### 🚧 In Progress
 - `From Zero to Hero GitHub Actions` – Dometrain.
 - `Ultimate Guide to FastAPI and Backend Development` – Udemy.
 - `MLflow in Action: Master the Art of MLOps` – Udemy.
-- `PyTorch for Deep Learning with Python Bootcamp` -Udemy.
 - `Deploy a Production Machine Learning model with AWS` -Udemy.
 - `LangChain Develop LLM-powered applications with LangChain` -Udemy.
 ---
