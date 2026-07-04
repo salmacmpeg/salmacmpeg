@@ -144,7 +144,7 @@ I’m actively building my next wave of skills through focused self-learning and
 
 If you're working on **AI systems**, **MLOps**, or **LLM-powered apps**, I'd love to collaborate, share, or geek out over clean architectures and quirky edge cases.
 
-- Reach out via [LinkedIn](https://www.linkedin.com/in/salma-abdelmotaleb-27911692/) or [Email](salmacmpeg@gmail.com).
+- Reach out via [LinkedIn](https://www.linkedin.com/in/salma-abdelmotaleb-27911692/) or [Email](mailto:salmacmpeg@gmail.com)
 - Check out my pinned repositories for real-world projects in ML, NLP, and LLM engineering.
 
 ---
