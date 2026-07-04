@@ -1,11 +1,11 @@
 
 # Salma AbdelMonem | 🧪 Applied ML Researcher
 
-Lecturer Assistant | Cairo, Egypt | Transitioning from Academia to Production ML & LLM Engineering.
+ML Engineer | FastAPI · Docker · MLflow · LLMs | PhD in Applied ML
 
 ## Hi there 👋
 
-I’m Salma, an applied machine learning researcher and PhD (scheduled) in machine learning, and I'm on a hands-on journey exploring my passion for building ML systems.
+I’m Salma, an applied machine learning researcher and PhD in machine learning, and I'm on a hands-on journey exploring my passion for building ML systems.
 
 ## 🔧 What I’ve Recently Learned & Built
 
@@ -19,6 +19,20 @@ I’ve been sharpening my engineering toolkit for reliable, maintainable ML apps
 
 # Here is a summary of my latest projects
 These projects demonstrate end-to-end machine learning applications that prioritize modularity, scalability, and real-world impact. As I transition into MLOps and LLM Engineering, these projects highlight my expertise in building production-ready systems.
+
+## 🛒 retail-inventory-api
+
+(https://github.com/salmacmpeg/retail-inventory-api)
+
+Production-style retail inventory management system with a full ML serving pipeline.
+
+**Highlights:**
+- FastAPI with async SQLAlchemy, JWT auth, and role-based access control
+- Dockerized with docker-compose — one command to run app + MySQL together
+- ML-based price estimation endpoint with model loaded at startup via lifespan handler
+- GitHub Actions CI running lint and tests on every push
+- Clean architecture with Pydantic validation, Loguru logging, and Pytest coverage
+
 
 ## 🧠 PersonalityPrediction  
 
@@ -95,9 +109,10 @@ Deep learning-based sentiment classification pipeline from English text.
 
 I’m actively building my next wave of skills through focused self-learning and personal projects:
 
--  **LangChain** – chaining agents/tools and building private LLM workflows.
--  **AWS & SageMaker** – deploying scalable ML models in the cloud.
--  **FastAPI** – building clean, scalable APIs for ML inference.
+- **AWS deployment** — deploying containerized ML APIs using ECR, ECS, and S3
+- **Demand forecasting** — building a retail ML project with MLflow, 
+  FastAPI serving, and full experiment tracking
+- **LangChain agents** — extending RAG workflows into agentic pipelines
 ---
 
 ## 🎯 My Technical Interests
@@ -111,7 +126,6 @@ I’m actively building my next wave of skills through focused self-learning and
 ## 🎓 Completed & Ongoing Courses
 
 ### ✅ Completed
-- `LLM Engineering Master AI, Large Language Models & Agents` – Udemy (2024-12).
 - `Machine Learning in Production: From Data Scientist to ML Engineer` – Udemy (2024-9).
 - `Natural Language Processing in Python (2025 Edition)` – Udemy (2025-5).
 - `Python Automation Testing with Pytest` – Udemy (2023-12).
@@ -122,13 +136,8 @@ I’m actively building my next wave of skills through focused self-learning and
 - `Generative AI with Large Language Models` – Coursera - Feb. 2025.
 - `Deep Learning Specialization` – Coursera (by Andrew Ng) - April 2020.
 - `Machine Learning for Intelligent Systems CS4780` – Cornell Class - Sep. 2019.
-
-### 🚧 In Progress
 - `From Zero to Hero GitHub Actions` – Dometrain.
 - `Ultimate Guide to FastAPI and Backend Development` – Udemy.
-- `MLflow in Action: Master the Art of MLOps` – Udemy.
-- `Deploy a Production Machine Learning model with AWS` -Udemy.
-- `LangChain Develop LLM-powered applications with LangChain` -Udemy.
 ---
 
 ## 💡 Let’s Connect
