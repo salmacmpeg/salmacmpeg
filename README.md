@@ -1,13 +1,13 @@
 
-# Salma AbdelMonem | 🧪 Applied ML Researcher
+# Salma AbdelMonem | Applied ML Researcher
 
 ML Engineer | FastAPI · Docker · MLflow · LLMs | PhD in Applied ML
 
-## Hi there 👋
+## Hi there
 
 I’m Salma, an applied machine learning researcher and PhD in machine learning, and I'm on a hands-on journey exploring my passion for building ML systems.
 
-## 🔧 What I’ve Recently Learned & Built
+## What I’ve Recently Learned & Built
 
 I’ve been sharpening my engineering toolkit for reliable, maintainable ML apps:
 
@@ -25,7 +25,7 @@ I’ve been sharpening my engineering toolkit for reliable, maintainable ML apps
 # Here is a summary of my latest projects
 These projects demonstrate end-to-end machine learning applications that prioritize modularity, scalability, and real-world impact. As I transition into MLOps and LLM Engineering, these projects highlight my expertise in building production-ready systems.
 
-## 🛒 retail-inventory-api
+## retail-inventory-api
 
 (https://github.com/salmacmpeg/retail-inventory-api)
 
@@ -39,7 +39,7 @@ Production-style retail inventory management system with a full ML serving pipel
 - Clean architecture with Pydantic validation, Loguru logging, and Pytest coverage
 
 
-## 🧠 PersonalityPrediction  
+## PersonalityPrediction  
 
 (https://github.com/salmacmpeg/PersonalityPrediction).
 
@@ -53,7 +53,7 @@ Personality classification tool with full CI/CD automation and clean architectur
 
 ---
 
-## 🎬 Movies_recommendation_app 
+## Movies_recommendation_app 
 
 (https://github.com/salmacmpeg/Movies_recommendation_app).
 
@@ -66,7 +66,7 @@ Hybrid movie recommender using metadata + semantic similarity in Gradio.
 - Scrollable UI with dynamic filtering.
 
 ---
-## 📚 QuizGenerator 
+## QuizGenerator 
 
 (https://github.com/salmacmpeg/QuizGenerator).
 
@@ -79,7 +79,7 @@ RAG-based app for generating contextual quiz questions from course materials.
 - Local deployment using Ollama for privacy.
 
 ---
-## 📊 MLflow_customer_churn_prediction  
+## MLflow_customer_churn_prediction  
 
 (https://github.com/salmacmpeg/MLflow_customer_churn_prediction)
 
@@ -94,7 +94,7 @@ MLflow-powered pipeline for tracking, comparing, and registering classical model
 - Modular design for reusable experimentation and debugging.
 
 ---
-## 📚 Emotions_prediction_using_sentiment_analysis
+## Emotions_prediction_using_sentiment_analysis
 
 (https://github.com/salmacmpeg/Emotions_prediction_using_sentiment_analysis)
 
@@ -120,7 +120,7 @@ I’m actively building my next wave of skills through focused self-learning and
 - **LangChain agents** — extending RAG workflows into agentic pipelines
 ---
 
-## 🎯 My Technical Interests
+## My Technical Interests
 
 - Designing insightful modular ML apps.
 - NLP, document parsing, and automated knowledge extraction using OCR + regex.
@@ -130,7 +130,7 @@ I’m actively building my next wave of skills through focused self-learning and
 ---
 ## 🎓 Completed & Ongoing Courses
 
-### ✅ Completed
+### Completed
 - `Machine Learning in Production: From Data Scientist to ML Engineer` – Udemy (2024-9).
 - `Natural Language Processing in Python (2025 Edition)` – Udemy (2025-5).
 - `Python Automation Testing with Pytest` – Udemy (2023-12).
@@ -145,7 +145,7 @@ I’m actively building my next wave of skills through focused self-learning and
 - `Ultimate Guide to FastAPI and Backend Development` – Udemy.
 ---
 
-## 💡 Let’s Connect
+## Let’s Connect
 
 If you're working on **AI systems**, **MLOps**, or **LLM-powered apps**, I'd love to collaborate, share, or geek out over clean architectures and quirky edge cases.
 
