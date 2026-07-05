@@ -11,11 +11,16 @@ I’m Salma, an applied machine learning researcher and PhD in machine learning,
 
 I’ve been sharpening my engineering toolkit for reliable, maintainable ML apps:
 
-- **Code quality & automation**: Linting (`flake8`), logging (`loguru`), testing (`pytest`), clean architecture, dependency management using (`poetry`),  automation with (`Makefiles`), and  CI/CD using (`GitHub Actions`). 
-- **NLP with Python and HuggingFace**: Feature engineering, (`KNN`), (`HuggingFace`) models, cosine similarity, and  (`Gradio`) UI.
+- **Full-stack API Engineering**: Designing asynchronous backend services with (`FastAPI`), structured data validation through (`Pydantic`), and secure (`JWT`) authentication with role-based access control.
+- **Containerization & Orchestration**: Packaging multi-service environments (App + MySQL) using (`Docker`) and (`Docker Compose`) to ensure seamless "one-command" deployments.
+- **ML Model Serving & Lifespans**: Optimizing production ML delivery by using FastAPI (`lifespan`) handlers to load model weights and assets efficiently at application startup.
+- **Database & Clean Architecture**: Building maintainable, decoupled systems using (`SQLAlchemy`) with (`asyncio`) for non-blocking database operations and reliable data persistence.
+- **Code quality & automation**: Linting (`flake8`), logging (`loguru`), testing (`pytest`), clean architecture, dependency management using (`poetry`), automation with (`Makefiles`), and CI/CD using (`GitHub Actions`). 
+- **NLP with Python and HuggingFace**: Feature engineering, (`KNN`), (`HuggingFace`) models, cosine similarity, and (`Gradio`) UI.
 - **Retrieval-Augmented Generation**: With (`LangChain`), (`Chroma vectorstore`), and (`Ollama`).
 - **MLflow for customer churn prediction**: Experiment data and model tracking, parameters, metrics, and automated model deployment with (`MLflow`).
 - **Sentiment Analysis with Deep Learning**: Text classification using traditional machine learning, CNNs, RNNs, and transformers, with modular training and evaluation pipelines.
+
 
 # Here is a summary of my latest projects
 These projects demonstrate end-to-end machine learning applications that prioritize modularity, scalability, and real-world impact. As I transition into MLOps and LLM Engineering, these projects highlight my expertise in building production-ready systems.
