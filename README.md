@@ -4,15 +4,14 @@ ML Engineer | FastAPI · Docker · MLflow · LLMs | PhD in Applied ML | Open to 
 
 ---
 
-## About
+## Hi there
+I'm a Machine Learning Engineer with a PhD in Computer Engineering from Cairo University (2025).
+My background is in applied ML research; publishing in journals like Neural Computing and 
+Applications and Knowledge-Based Systems. I've spent the last year deliberately building 
+the engineering side: production APIs, containerization, experiment tracking, and CI/CD pipelines.
 
-I'm an ML Engineer with a PhD in Computer Engineering and 9+ years of applied 
-machine learning experience. I build end-to-end ML systems — from data pipelines 
-and experiment tracking to API serving, containerization, and CI/CD deployment.
-
-My work spans NLP, LLMs, RAG systems, semi-supervised learning, and classical ML.
-I publish in high-impact journals and bring that same research rigor into how I 
-engineer — clean architecture, tested pipelines, reproducible experiments.
+I bridge research depth with engineering discipline. I understand why models fail, not just 
+how to run them, and I'm now building systems that put that understanding into production.
 
 ---
 
